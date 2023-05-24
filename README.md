@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a product manager and designer at OpenCUI. I'm passionate about using technology to solve real-world problems and create meaningful experiences.
+
+I'm currently leading the design and development of a new conversational AI platform that will help businesses improve their customer service. This platform will use natural language processing to understand customer queries and automatically generate frame events, dialog acts and natural languages based on the design of business to provide personalized responses. I’m excited to see how this platform can make a difference in the lives of businesses and customers alike.
+
+If you have any questions or would like to chat more, please don't hesitate to reach out.
+
+📫 How to reach me: lu.zeng@opencui.io
+
+
 <!--
 **Zeng666666/Zeng666666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
