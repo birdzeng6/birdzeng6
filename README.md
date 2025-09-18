@@ -6,7 +6,7 @@ I'm currently leading the design and development of a new conversational AI plat
 
 If you have any questions or would like to chat more, please don't hesitate to reach out.
 
-📫 How to reach me: lu.zeng@opencui.io
+📫 How to reach me: flyingbird816@gmail.com
 
 
 <!--
